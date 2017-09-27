@@ -155,3 +155,20 @@ body {
 	box-shadow: 0 10px 20px rgba(0,0,0,.5);
 }
 
+.form1{
+	width: 400px;
+	height: 400px;
+	margin: 100px auto;
+	background-color: #D2B48C;
+}
+
+.form1 .format{
+	width: 200px;
+	height: 200px;
+	padding: 70px;
+	margin-top:0px;
+	margin-left: 50px;
+	margin-bottom: 0px;
+
+}
+
