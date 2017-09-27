@@ -1,0 +1,44 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #FAEBD7;
+	background-size: cover;
+}
+
+
+.container1 {
+	
+	width: 50%;
+	height : 50%;
+	padding: 30px;
+	background-image: url("images/recipe1.jpg");
+	box-shadow: 0 10px 20px rgba(0,0,0,.5);
+}
+
+.container1 .left{
+	float: left;
+	width: 65px;
+	height: 130px;
+	margin-top: -97px;
+	margin-left: -30px;
+	background-color: #A52A2A;
+}
+
+.container1 .right{
+	float: right;
+	width: 700px;
+	height: 130px;
+	margin-top: -97px;
+	margin-right: -700px;
+	background-color: #A52A2A;
+}
+
+.container1 h1 {
+	font-family: sans-serif;
+	margin: 10px 10px 20px 40px;
+	color : Tomato;
+	text-shadow:  3px 0px white, 0px -2px white, 4px -2px 4px #000000 ;
+
+}
+
+
