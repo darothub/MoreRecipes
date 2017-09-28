@@ -202,6 +202,7 @@ body {
 	padding: 15px 20px;
 	border: 2px solid #DC143C;
 	background-color: #DC143C;
+	box-shadow: 0 10px 20px rgba(0,0,0,.5);
 }
 
 .form1 .btn:hover  {
@@ -217,7 +218,7 @@ body {
 
 .form1 .linebelow{
 	width: 600px;
-	height: 10px;
+	height: 30px;
 	background-color: #A52A2A;
 	margin: 390px 0px;
 }
