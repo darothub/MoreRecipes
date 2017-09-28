@@ -2,7 +2,7 @@ body {
 	margin: 0;
 	padding: 0;
 	background-color: #FAEBD7;
-	background-image: url("images/pizza2.jpg");
+	background-image: url("../images/pizza2.jpg");
 	background-size: cover;
 }
 
@@ -12,7 +12,7 @@ body {
 	width: 50%;
 	height : 50%;
 	padding: 30px;
-	background-image: url("images/recipe1.jpg");
+	background-image: url("../images/recipe1.jpg");
 	box-shadow: 0 10px 20px rgba(0,0,0,.5);
 }
 
@@ -84,7 +84,7 @@ body {
 	width: 500px;
 	height: 300px;
 	background-color: #9ACD32;
-	background-image: url(images/recipe2.jpg);
+	background-image: url("../images/recipe2.jpg");
 	background-size: cover;
 	margin: 30px auto;
 	border: 2px solid #00FF7F;
@@ -227,7 +227,7 @@ body {
 	float: right;
 	width:600px;
 	height: 300px;
-	background-image: url("images/recipe3.jpg");
+	background-image: url("../images/recipe3.jpg");
 	background-size: cover;
 	margin-top: -430px;
 	
