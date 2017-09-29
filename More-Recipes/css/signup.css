@@ -1,0 +1,64 @@
+body{
+	width: 500px;
+	height: 400px;
+	background-color: #808000;
+}
+.h2 {
+	position: relative;
+	width: 1300px;
+	padding: 5px;
+	margin: 0;
+	box-shadow: 0 10px 20px rgba(0,0,0,.5);
+	background-color: #EEE8AA;
+	background-image: url("../images/ready.jpg");
+
+	
+}
+h2{
+	font-family: "Times New Roman", Georgia, Serif;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: center;
+	color: #778899;
+	text-shadow: 2px 2px #000000;
+}
+.form2 input{
+    width: 100%;
+    padding: 15px 25px;
+    margin: 10px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    box-shadow: 0 10px 20px rgba(0,0,0,.5);
+
+}
+
+.btn{
+	width: 700px;
+
+}
+button{
+	color: white;
+	padding: 15px 20px;
+	cursor:pointer;
+	width: 100px;
+}
+
+.cancelbtn {
+    padding: 14px 20px;
+    background-color: #f44336;
+}
+.signupbtn {
+    padding: 14px 20px;
+    background-color: #90EE90;
+}
+
+.cancelbtn,.signupbtn {
+    float: left;
+    width: 35.5%;
+}
+
+button:hover  {
+                
+                color:#800000;
+}
