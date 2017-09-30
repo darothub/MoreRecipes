@@ -1,0 +1,234 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #FAEBD7;
+	background-image: url("images/pizza2.jpg");
+	background-size: cover;
+}
+
+
+.container1 {
+	
+	width: 50%;
+	height : 50%;
+	padding: 30px;
+	background-image: url("images/recipe1.jpg");
+	box-shadow: 0 10px 20px rgba(0,0,0,.5);
+}
+
+.container1 .left{
+	float: left;
+	width: 65px;
+	height: 130px;
+	margin-top: -97px;
+	margin-left: -30px;
+	background-color: #A52A2A;
+}
+
+.container1 .right{
+	float: right;
+	width: 700px;
+	height: 130px;
+	margin-top: -97px;
+	margin-right: -700px;
+	background-color: #A52A2A;
+}
+
+.container1 h1 {
+	font-family: sans-serif;
+	margin: 10px 10px 20px 40px;
+	color : Tomato;
+	text-shadow:  3px 0px white, 0px -2px white, 4px -2px 4px #000000 ;
+
+}
+
+.nav1{
+	color : #DC143C;
+	margin-top: 10px;
+	margin-left: 65px;
+}
+
+.search{
+	float: right;
+	width: 400px;
+	margin-top: -15px;
+	margin-right: -50px;
+	background:rgba(50, 50, 50, 0.2);
+}
+.search form {
+	padding: 6px 10px;
+	border: 2px solid #DC143C;
+	background-color: #207cca;
+	color:#fafafa;
+}
+
+.search .searchy{
+	padding:8px 15px;
+    background:rgba(50, 50, 50, 1);
+    border:0px solid #dbdbdb;
+}
+
+.search .btn{
+	position: relative;
+	padding: 6px 15px;
+	border: 2px solid #DC143C;
+	background-color: #DC143C;
+}
+
+.search .btn:hover  {
+                
+                color:#FFFFFF;
+}
+
+.center{
+	width: 500px;
+	height: 300px;
+	background-color: #9ACD32;
+	background-image: url("images/recipe2.jpg");
+	background-size: cover;
+	margin: 30px auto;
+	border: 2px solid #00FF7F;
+	box-shadow: 0 10px 20px rgba(0,0,0,.5);
+
+}
+
+.center .topright{
+	float: right;
+	width: 45%;
+	height: 45%;
+	background-color: #4682B4;
+	margin: 10px;
+}
+.center .topleft{
+	float: left;
+	width:45%;
+	height: 45%;
+	background-color: #9ACD32;
+	margin: 10px;
+}
+
+.center .bottomright{
+	float: right;
+	width: 45%;
+	height: 45%;
+	background-color:#6A5ACD;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-right: 10px;
+}
+
+.center .bottomleft{
+	float: left;
+	width:45%;
+	height: 45%;
+	background-color: #FF8C00;
+	margin-left: 10px;
+}
+
+.center .eba1{
+	width: 60%;
+	height: 60%;
+	margin-top: 25px;
+	margin-right: 10px;
+	margin-left: 45px;
+	border: 2px solid #00FF7F;
+	box-shadow: 0 10px 20px rgba(0,0,0,.5);
+}
+
+.center .rice1{
+	width: 60%;
+	height: 60%;
+	margin-top: 25px;
+	margin-right: 10px;
+	margin-left: 45px;
+	border: 2px solid #00FF7F;
+	box-shadow: 0 10px 20px rgba(0,0,0,.5);
+}
+
+.center .asaro1{
+	width: 60%;
+	height: 60%;
+	margin-top: 25px;
+	margin-right: 10px;
+	margin-left: 45px;
+	border: 2px solid #00FF7F;
+	box-shadow: 0 10px 20px rgba(0,0,0,.5);
+}
+
+.form1{
+	width: 600px;
+	height: 400px;
+	margin: 100px auto;
+	background-color: #D2B48C;
+	box-shadow: 0 10px 20px rgba(0,0,0,.5);
+}
+
+
+
+.form1 .formleft{
+	width:200px ;
+	height: 300px;
+	float: left;
+	background-color: #00FFFF;
+	padding: 40px;
+	margin: 50px;
+
+}
+
+.form1 .format{
+	width: 200px;
+	height: 200px;
+	padding: 70px;
+	margin: -50px;
+
+}
+
+.form1 .username{
+	padding:20px 20px;
+    background:#FFEBCD;
+    border:0px solid #dbdbdb;
+    box-shadow: 0 10px 20px rgba(0,0,0,.5);
+}
+
+.form1 .password{
+	padding:20px 20px;
+    background:#FFEBCD;
+    border:0px solid #dbdbdb;
+    box-shadow: 0 10px 20px rgba(0,0,0,.5);
+}
+
+.form1 .btn{
+	position: relative;
+	padding: 15px 20px;
+	border: 2px solid #DC143C;
+	background-color: #DC143C;
+	box-shadow: 0 10px 20px rgba(0,0,0,.5);
+}
+
+.form1 .btn:hover  {
+                
+                color:#FFFFFF;
+}
+
+.form1 .lineabove{
+	width: 600px;
+	height: 10px;
+	background-color: #A52A2A;
+}
+
+.form1 .linebelow{
+	width: 600px;
+	height: 30px;
+	background-color: #A52A2A;
+	margin: 390px 0px;
+}
+
+.form1 .formright{
+	float: right;
+	width:600px;
+	height: 300px;
+	background-image: url("../images/recipe3.jpg");
+	background-size: cover;
+	margin-top: -430px;
+	
+}
