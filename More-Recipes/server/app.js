@@ -3,7 +3,7 @@ const app = express();
 
 app.listen(8080, function(err, res){
 	if(err){
-		console.log("Server mauvais");
+		console.log("Server mauvaise");
 	}
 	console.log("Server travaille au port:8080");
 });
